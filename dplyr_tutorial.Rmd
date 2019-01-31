@@ -17,7 +17,7 @@ When working with data you must:
 
 * Figure out what you want to do.
 
-* Describe those tasks in the form of a computer program.xzxxxxx
+* Describe those tasks in the form of a computer program
 
 * Execute the program.
 
