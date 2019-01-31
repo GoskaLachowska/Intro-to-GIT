@@ -22,8 +22,7 @@ When working with data you must:
 * Execute the program.
 
 The dplyr package makes these steps fast and easy:
-
-* By constraining your options, it helps you think about your data manipulation 
+onstraining your options, it helps you think about your data manipulation 
   challenges.
 
 * It provides simple "verbs", functions that correspond to the most common data 
