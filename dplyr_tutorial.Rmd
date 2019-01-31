@@ -1,7 +1,7 @@
 ---
 title: "Introduction to dplyr"
-output:
-  html_document:
+output: git test_YW
+  html_document: GIT test_YW
     df_print: paged
 ---
 
